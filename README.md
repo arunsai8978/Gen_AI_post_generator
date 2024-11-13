@@ -1,7 +1,7 @@
 # project-genai-post-generator
 This tool will analyze posts of a LinkedIn influencer and help them create the new posts based on the writing style in their old posts  
 
-<img src="project_structure/tool.jpg"/>
+<img src="project_structure/output.jpg"/>
 
 Let's say you are a LinkedIn influencer and you need help in writing your future posts. You can feed your past LinkedIn posts to this tool and it will extract key topics. Then you can select the topic, length, language etc. and use Generate button to create a new post that will match your writing style. 
 
